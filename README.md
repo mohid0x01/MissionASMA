@@ -16,7 +16,7 @@
 
 | Count | Activity | Banned / Removed |
 |---|---|---|
-| 3x | Wise account banned | Due to STRIKES |
+| 3x | Wise account banned | Due to Impersonating |
 | 3x | ETSY account banned | Due to STRIKES |
 | 17x | Listing removed | Due to policy violations |
 
