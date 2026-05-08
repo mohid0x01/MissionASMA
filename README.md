@@ -12,6 +12,16 @@
 * Total STRIKES: 6 STRIKES (1x Wise account banned, 2x Etsy accounts banned, 1x Wise account banned, 3x Etsy accounts banned but 1x RECOVERED, 1x Etsy account banned but Recovered)
 * Listings removed: 17 listings removed across various shops due to policy violations.
 
+# Summary of activities:
+
+| Count | Activity | Banned / Removed |
+|---|---|---|
+| 3x | Wise account banned | Due to STRIKES |
+| 3x | ETSY account banned | Due to STRIKES |
+| 17x | Listing removed | Due to policy violations |
+
+# detailed timeline of activities:
+
 | Count | Activity | Date | Banned / Removed | Store Name |
 |---|---|---|---|---|
 | 1x | Wise account banned | 8 Apr 2026 | Due to STRIKES | |
