@@ -1,11 +1,10 @@
 # MissionASMA
 
 > [!IMPORTANT]
-> Target
-> Name: Muhammad Ali Saddique
-> No: +92 307 9808969
-> LinkedIn: @muhammad-ali-siddique-kaf
-> Instagram: @alisiddique.kaf
+> **Target Name**: Muhammad Ali Saddique
+> **No**: +92 307 9808969
+> **LinkedIn**: @muhammad-ali-siddique-kaf
+> **Instagram**: @alisiddique.kaf
 
 # Progress
 * Accounts and listings removed/banned from 8 Apr 2026 to 7 May 2026
