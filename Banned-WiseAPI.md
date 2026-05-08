@@ -1,7 +1,7 @@
 # Banned Wise API Keys & Credentials - Summary of Banned Accounts & Listings
 
-> [!WARNING] This document contains a summary of banned Wise accounts and Etsy listings due to policy violations. It is intended for internal use and documentation purposes only. The information provided here is based on activities from April 8, 2026, to May 7, 2026.
-> ⚠️ WARNING: These are credentials for testing and documentation purposes only
+> [!WARNING]
+> This document contains a summary of banned Wise accounts and Etsy listings due to policy violations. It is intended for internal use and documentation purposes only. The information provided here is based on activities from April 8, 2026, to May 7, 2026.
 
 ---
 
