@@ -9,8 +9,11 @@
 
 # Progress
 > Accounts and listings removed/banned from 8 Apr 2026 to 7 May 2026
+
 > Note: STRIKES are given for policy violations and can lead to account suspension or banning if they accumulate.
+
 > Total STRIKES: 6 STRIKES (1x Wise account banned, 2x Etsy accounts banned, 1x Wise account banned, 3x Etsy accounts banned but 1x RECOVERED, 1x Etsy account banned but Recovered)
+
 > Listings removed: 17 listings removed across various shops due to policy violations.
 
 | Count | Activity | Date | Banned / Removed | Store Name |
