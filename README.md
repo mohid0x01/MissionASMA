@@ -40,7 +40,7 @@
 | 2x |  Listing removed | 04 may 2026 | 739451826, 6354582311 | gearwearkit, YincheerUk |
 | 3x |  Listing removed | 05 may 2026 | 1354522311, 4561386683, 4419854691 | VelvinaUS, meemkit, KafinaUS |
 | 3x |  Listing removed | 07 may 2026 | 4419824691, 4376238918, 4419849291 | KafinaUS, YincheerUk, meemkit |
-| 4x |  Wise Accounts Banned | 08 may 2026 | details in  | CHECK  |
+| 4x |  Wise Accounts Banned | 08 may 2026 | details in (this File)[Banned-WiseAPI.md] | CHECK (this File)[Banned-WiseAPI.md] |
 ---
 
 ## **Etsy Shops**
