@@ -56,6 +56,7 @@
 * https://www.etsy.com/shop/gearwearkit
 * https://www.etsy.com/uk/shop/OralinaUS?ref=condensed\_trust\_header\_title\_reviews
 * https://shop.app/m/agy4jt6rwn/collections/496060825829/new-arrivals?dynamicFilterVAvailability=%7B%22available%22%3Atrue%7D\&inStock=true\&sortBy=MOST\_SALES
+* https://www.etsy.com/uk/shop/OliveThreadStudioArt
 
 ---
 
@@ -74,6 +75,7 @@
 | *OrallinaUS* | 15041306 | United Kingdom |
 | *GraceNBold* | 16437778 | United Kingdom |
 | *ZelviraUS* | 16538005 | United Kingdom |
+| *OliveThreadStudioArt* |  | United Kingdom | 
 
 ---
 
